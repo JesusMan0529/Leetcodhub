@@ -30,3 +30,4 @@ int removeElement(int* nums, int size, int val)
 	}
 	return slow;
 }
+
